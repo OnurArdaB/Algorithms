@@ -1,8 +1,8 @@
 # Algorithms
  
-Sabancı University CS-301 Algorithms
+## Sabancı University CS-301 Algorithms
 
-## Course Project:k-Clique
+### Course Project:k-Clique
 
 Clique as a word means a small group of people, with shared interests or other features in common, who spend time together and do not readily allow others to join them.
 
